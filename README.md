@@ -8,6 +8,6 @@ This project is a beginner-friendly tutorial and reference on how to use **SQLit
 ```text
 ├── sqlite_fundamental.ipynb # Manual CRUD queries
 ├── sqlite_fundamental_with_function.ipynb # Reusable CRUD functions
-├── users.csv # Exported user data (optional)
+├── users_export.csv # Exported user data (optional)
 ├── README.md # Project documentation
 ```
