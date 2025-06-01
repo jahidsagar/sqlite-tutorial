@@ -65,3 +65,59 @@ Install dependencies (if needed):
 
 ```bash
 pip install pandas notebook
+
+---
+
+## 🏁 How to Run
+
+1. Open Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+2. Open and run:
+
+   * `sqlite_fundamental.ipynb` to follow raw SQL examples
+   * `sqlite_fundamental_with_function.ipynb` to use Python functions
+
+---
+
+## 📝 Example Usage
+
+```python
+create_table()
+insert_user("Alice", 30, "alice@example.com")
+print(get_all_users_df())
+search_users_by_name("Ali")
+export_users_to_csv()
+```
+
+---
+
+## 📦 Output
+
+* SQLite database file: `example.db`
+* CSV export file: `users.csv`
+
+---
+
+## 🧑‍💻 Author
+
+Md. Jahidul Alam
+GitHub: [jahidsagar](https://github.com/jahidsagar)
+
+---
+
+## 📜 License
+
+This project is open source and free to use for educational purposes.
+
+```
+
+---
+
+You can save this as `README.md` in your repo.
+
+Let me know if you want a version with screenshots, badges, or setup instructions for a specific OS or cloud platform (like Binder or Replit)!
+```
