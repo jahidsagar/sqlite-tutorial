@@ -114,9 +114,7 @@ GitHub: [jahidsagar](https://github.com/jahidsagar)
 
 This project is open source and free to use for educational purposes.
 
-```
-
----
+```text
 
 You can save this as `README.md` in your repo.
 
